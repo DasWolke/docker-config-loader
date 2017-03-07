@@ -1,0 +1,16 @@
+{
+  "name": "docker-config-loader",
+  "version": "1.0.0",
+  "description": "A really simple utility which loads the config from docker secrets if a specified env var is passed, if not it loads the config from a local path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker",
+    "Config",
+    "Util"
+  ],
+  "author": "Wolke <wolke@ram.moe>",
+  "license": "MIT"
+}
